@@ -1,7 +1,13 @@
-## a simple todo react app
+[![Netlify Status](https://api.netlify.com/api/v1/badges/09a30323-cc04-4831-90a3-25f44da56608/deploy-status)](https://app.netlify.com/sites/ark-todo/deploys)
 
-Deployed on netlify
+### todo app in react 
 
-check out [site live](https://ark-todo.netlify.app)
+check out [site running live](https://ark-todo.netlify.app)
 
-Can be run on localhost using docker
+a simple react app created using context and reducer of react hooks.
+
+#### benefits 
+
+*   folder structure can be leveraged to scale a small app -->> medium/large sized app
+
+*   can run on http://localhost:3000 using docker 

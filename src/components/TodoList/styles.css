@@ -1,0 +1,28 @@
+.todoItem{
+  padding: 5px;
+  margin: 5px;
+  width: 250px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border: 1px solid gray;
+  color: purple;
+}
+.completed {
+  text-decoration: line-through;
+  font-size: 16px;
+  font-weight: 500;
+}
+.incomplete{
+  text-decoration: none;
+  color: green;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.delete{
+   margin-left: auto;
+   cursor: pointer;
+   font-size: 12px;
+   color: red;
+}
